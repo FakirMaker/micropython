@@ -1,11 +1,20 @@
 [![CI badge](https://github.com/micropython/micropython/workflows/unix%20port/badge.svg)](https://github.com/micropython/micropython/actions?query=branch%3Amaster+event%3Apush) [![Coverage badge](https://coveralls.io/repos/micropython/micropython/badge.png?branch=master)](https://coveralls.io/r/micropython/micropython?branch=master)
 
-The MicroPython project
+The MicroPython project - Turkish language pack
 =======================
 <p align="center">
-  <img src="https://raw.githubusercontent.com/micropython/micropython/master/logo/upython-with-micro.jpg" alt="MicroPython Logo"/>
+  <img src="https://raw.githubusercontent.com/FakirMaker/micropython/master/upy.jpg" alt="MicroPython Logo"/>
 </p>
+========================================================================================
 
+<p>Bu proje orjinal micropython projesinin türkçeleştirilmiş halidir. Orjinal micropython güncelleştikçe güncellenmeye çalışılacaktır.
+
+Şu ana kadar Türkçe desteği verilen kısımlar:
+<li>ESP32:
+  <ul>frambuffer kitaplığına türkçe karakterler eklendi.</ul></li>
+  </p>
+  
+========================================================================================
 This is the MicroPython project, which aims to put an implementation
 of Python 3.x on microcontrollers and small embedded systems.
 You can find the official website at [micropython.org](http://www.micropython.org).
