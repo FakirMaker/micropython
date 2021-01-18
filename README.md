@@ -11,7 +11,10 @@ The MicroPython project - Turkish language pack
 
 Şu ana kadar Türkçe desteği verilen kısımlar:
 <li>ESP32:
-  <ul>frambuffer kitaplığına türkçe karakterler eklendi.</ul></li>
+  <ul>frambuffer kitaplığına türkçe karakterler eklendi.</ul>
+  <ul>boot.py özelleştirildi otomatik wifi-ftp-microsd sistemi entegre edildi</ul>
+  <ul>SSD1331 SSD1306 ekranlar için sürücüler entegre edildi.
+</li>
   </p>
   
 ========================================================================================
