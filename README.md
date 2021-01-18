@@ -13,7 +13,7 @@ The MicroPython project - Turkish language pack
 <li>ESP32:
   <ul>frambuffer kitaplığına türkçe karakterler eklendi.</ul>
   <ul>boot.py özelleştirildi otomatik wifi-ftp-microsd sistemi entegre edildi</ul>
-  <ul>SSD1331 SSD1306 ekranlar için sürücüler entegre edildi.
+  <ul>SSD1331 SSD1306 ekranlar için sürücüler entegre edildi.</ul>
 </li>
   </p>
   
